@@ -23,4 +23,4 @@ Most of the time on this was fixing my typos on the regexp set ;)
 
 Anyway, many thanks to Alex P, hope someone sees this and lets him know, because I just wanted to send him the update.
 
-At the moment, it doesn't support color themes from the theme generator at [http://inspiration.sweyla.com/code/](http://inspiration.sweyla.com/code/). However I intend to make the loader a bit more robust (today ?!) - because that would be quite cool. 
+Now supports color themes from the theme generator at http://inspiration.sweyla.com/code/](http://inspiration.sweyla.com/code/). 
